@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/addressbook")
 public class AddressBookController {
     @RequestMapping(value = {"", "/", "/get"})
     public ResponseEntity<String> getAddressbookData() {

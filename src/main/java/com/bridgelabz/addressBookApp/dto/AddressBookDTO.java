@@ -12,8 +12,6 @@ public class AddressBookDTO {
     @Override
     public String toString() {
         return "AddressbookDTO{" +
-                "name='" + name + '\'' +
-                ", phNumber=" + phNumber +
-                '}';
+                "name='" + name + '\'' + ", phNumber=" + phNumber + '}';
     }
 }
