@@ -1,3 +1,6 @@
 2022-06-10 02:20:13.287  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 7832 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
 2022-06-10 02:20:13.302 DEBUG 7832 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
 2022-06-10 02:20:13.304  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-06-10 02:20:28.379  WARN 7832 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 02:20:30.370  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 19.081 seconds (JVM running for 20.89)
+2022-06-10 02:20:30.381  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
