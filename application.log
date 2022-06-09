@@ -1,0 +1,3 @@
+2022-06-10 02:20:13.287  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 7832 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 02:20:13.302 DEBUG 7832 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 02:20:13.304  INFO 7832 --- [main] c.b.a.AddressBookAppApplication          : No active profile set, falling back to 1 default profile: "default"
