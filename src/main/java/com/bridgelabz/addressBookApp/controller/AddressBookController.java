@@ -20,7 +20,7 @@ public class AddressBookController {
     IAddressBookService addressbookService;
 
     @RequestMapping(value = {"", "/", "/get"})
-    public ResponseEntity<ResponseDTO> getAddressbookData() {
+    public ResponseEntity<ResponseDTO> getAddressBookData() {
         List<AddressBookData> addressbookDataList = null;
         addressbookDataList = addressbookService.getAddressbookData();
         ResponseDTO responseDTO = new ResponseDTO("Get call success",addressbookDataList);
