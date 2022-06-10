@@ -121,3 +121,45 @@ java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 2022-06-10 13:01:24.813  INFO 6176 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
 2022-06-10 13:01:24.827  INFO 6176 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
 2022-06-10 13:01:24.828  INFO 6176 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-10 13:26:32.882  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 5964 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 13:26:32.912 DEBUG 5964 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 13:26:32.995  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-10 13:26:49.751  WARN 5964 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 13:26:51.687  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 20.71 seconds (JVM running for 22.812)
+2022-06-10 13:26:51.702  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-10 13:26:51.712  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-10 13:26:51.713  INFO 5964 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-10 14:21:28.540  WARN 5964 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m41s300ms274µs428ns).
+2022-06-10 22:54:22.998  WARN 5964 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h33m6s846ms308µs157ns).
+2022-06-10 23:21:51.918  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 3440 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 23:21:51.927 DEBUG 3440 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 23:21:51.929  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-10 23:22:01.995  WARN 3440 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 23:22:03.126  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 12.535 seconds (JVM running for 14.106)
+2022-06-10 23:22:03.134  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-10 23:22:03.139  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-10 23:22:03.140  INFO 3440 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-10 23:25:06.278  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 6348 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 23:25:06.287 DEBUG 6348 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 23:25:06.289  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-10 23:25:14.201  WARN 6348 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 23:25:15.134  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 10.121 seconds (JVM running for 11.353)
+2022-06-10 23:25:15.172  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-10 23:25:15.178  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-10 23:25:15.180  INFO 6348 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-10 23:31:42.695  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 6136 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 23:31:42.711 DEBUG 6136 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 23:31:42.713  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-10 23:31:55.070  WARN 6136 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 23:31:56.499  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 15.415 seconds (JVM running for 17.05)
+2022-06-10 23:31:56.512  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-10 23:31:56.518  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-10 23:31:56.521  INFO 6136 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-10 23:40:51.832  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 10196 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-10 23:40:51.851 DEBUG 10196 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-10 23:40:52.513  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-10 23:41:04.311  WARN 10196 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-10 23:41:05.565  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 15.481 seconds (JVM running for 17.406)
+2022-06-10 23:41:05.574  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-10 23:41:05.585  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-10 23:41:05.587  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
