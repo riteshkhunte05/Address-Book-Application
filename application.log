@@ -163,3 +163,11 @@ java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 2022-06-10 23:41:05.574  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
 2022-06-10 23:41:05.585  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
 2022-06-10 23:41:05.587  INFO 10196 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-06-11 00:46:31.622  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 11.0.15 on DESKTOP-F0VCATA with PID 1844 (E:\CFP\SpringBootProjects\addressBookApp\target\classes started by Ritesh in E:\CFP\SpringBootProjects\addressBookApp)
+2022-06-11 00:46:31.638 DEBUG 1844 --- [main] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-11 00:46:31.640  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : The following 1 profile is active: "DEV"
+2022-06-11 00:46:58.015  WARN 1844 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-11 00:46:59.803  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 30.555 seconds (JVM running for 32.47)
+2022-06-11 00:46:59.815  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App Started in DEV Environment
+2022-06-11 00:46:59.820  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : Address Book DB User is root
+2022-06-11 00:46:59.823  INFO 1844 --- [main] c.b.a.AddressBookAppApplication          : Addressbook App started
