@@ -39,7 +39,7 @@ public class AddressBookController {
     public ResponseEntity<ResponseDTO> addAddressbookData(@Valid @RequestBody AddressbookDTO addressbookDTO) {
         AddressBookData addressbookData = null;
         addressbookData = addressbookService.createAddressbookData(addressbookDTO);
-        ResponseDTO responseDTO = new ResponseDTO("Created Employee Payroll Data successfully ",addressbookData);
+        ResponseDTO responseDTO = new ResponseDTO("Created Address Book Data successfully ",addressbookData);
         return new ResponseEntity<>(responseDTO,HttpStatus.OK);
     }
 
@@ -47,7 +47,7 @@ public class AddressBookController {
     public ResponseEntity<ResponseDTO> updateAddressbookData(@PathVariable int personId,@Valid @RequestBody AddressbookDTO addressbookDTO){
         AddressBookData addressbookData = null;
         addressbookData = addressbookService.updateAddressbookData(personId,addressbookDTO);
-        ResponseDTO responseDTO = new ResponseDTO("Updated Employee Payroll data successfully ",addressbookData);
+        ResponseDTO responseDTO = new ResponseDTO("Updated Address Book data successfully ",addressbookData);
         return new ResponseEntity<>(responseDTO,HttpStatus.OK);
     }
 
