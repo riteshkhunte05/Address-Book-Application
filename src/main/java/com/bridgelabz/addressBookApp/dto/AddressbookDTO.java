@@ -6,9 +6,16 @@ import lombok.ToString;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Pattern;
 
-@Data
+/*********************************************************************
+ * Purpose: Class for Address Book DTO.
+ *
+ * @author Ritesh
+ * @since 08-06-2022
+ *
+ **********************************************************************/
+
 @ToString
-public class AddressbookDTO {
+public @Data class AddressbookDTO {
 
     @Pattern(regexp = "^[A-Z]{1}[a-zA-Z\\s]{2,}$", message = "FirstName name is Invalid")
     @NotEmpty(message = "FirstName  cannot be null")

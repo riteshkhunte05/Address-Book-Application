@@ -5,10 +5,13 @@ import lombok.Data;
 
 import javax.persistence.*;
 
-/**
- Use Of Lombak In Addressbook Annotations
- */
-@Data
+/*********************************************************************
+ * Purpose: Class for Address Book Data.
+ *
+ * @author Ritesh
+ * @since 08-06-2022
+ *
+ **********************************************************************/@Data
 @Entity
 @Table(name="contact_table")
 public class AddressBookData {
